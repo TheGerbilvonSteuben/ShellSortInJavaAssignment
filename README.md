@@ -1,2 +1,2 @@
 # ShellSortInJavaAssignment
-Shell sort algorithm implemented in java
+Shell sort and quick sort algorithms implemented in java
